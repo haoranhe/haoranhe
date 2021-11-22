@@ -1,5 +1,7 @@
+<div align="center" width="50">
+  <img src="https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif" alt="Welcome!" style="width:200px;height:150px;border:0" />
+</div>
 ### 👋 Hi there
-
 I'm a Ph.D. student at the School of Management, Hefei University of Technology. Currently, I'm working on research in machine learning, financial technology (Fintech), information management, and credit risk management. I enjoy coding for fun😋.
 
 <h3>🔍 Where to find me</h3>
